@@ -1,4 +1,5 @@
 <p align="center">
+  QDash - Powered by Redash
   <img title="Redash" src='https://redash.io/assets/images/logo.png' width="200px"/>
 </p>
 
@@ -6,7 +7,7 @@
 [![Datree](https://s3.amazonaws.com/catalog.static.datree.io/datree-badge-20px.svg)](https://datree.io/?src=badge)
 [![Build Status](https://circleci.com/gh/getredash/redash.png?style=shield&circle-token=8a695aa5ec2cbfa89b48c275aea298318016f040)](https://circleci.com/gh/getredash/redash/tree/master)
 
-Redash is designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small. SQL users leverage Redash to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their organization to use the data. Every day, millions of users at thousands of organizations around the world use Redash to develop insights and make data-driven decisions.
+Qdash(Redash) is designed to enable anyone, regardless of the level of technical sophistication, to harness the power of data big and small. SQL users leverage Redash to explore, query, visualize, and share data from any data sources. Their work in turn enables anybody in their organization to use the data. Every day, millions of users at thousands of organizations around the world use Redash to develop insights and make data-driven decisions.
 
 Redash features:
 
@@ -21,11 +22,6 @@ Redash features:
 9. **Broad support for data sources**: Extensible data source API with native support for a long list of common databases and platforms.
 
 <img src="https://raw.githubusercontent.com/getredash/website/8e820cd02c73a8ddf4f946a9d293c54fd3fb08b9/website/_assets/images/redash-anim.gif" width="80%"/>
-
-## Getting Started
-
-* [Setting up Redash instance](https://redash.io/help/open-source/setup) (includes links to ready-made AWS/GCE images).
-* [Documentation](https://redash.io/help/).
 
 ## Supported Data Sources
 
@@ -80,18 +76,13 @@ Redash supports more than 35 SQL and NoSQL [data sources](https://redash.io/help
 
 ## Getting Help
 
-* Issues: https://github.com/getredash/redash/issues
-* Discussion Forum: https://discuss.redash.io/
-
-## Reporting Bugs and Contributing Code
-
-* Want to report a bug or request a feature? Please open [an issue](https://github.com/getredash/redash/issues/new).
-* Want to help us build **_Redash_**? Fork the project, edit in a [dev environment](https://redash.io/help-onpremise/dev/guide.html) and make a pull request. We need all the help we can get!
-
-## Security
-
-Please email security@redash.io to report any security vulnerabilities. We will acknowledge receipt of your vulnerability and strive to send you regular updates about our progress. If you're curious about the status of your disclosure please feel free to email us again. If you want to encrypt your disclosure email, you can use [this PGP key](https://keybase.io/arikfr/key.asc).
+* Issues: https://github.com/o3cloud/qdash/issues
 
 ## License
 
 BSD-2-Clause.
+
+## Notice
+
+QDash is inspired from redash (https://github.com/getredash/redash) .
+
